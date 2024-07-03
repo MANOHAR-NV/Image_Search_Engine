@@ -1,6 +1,3 @@
-Certainly! Here's a simple README file you can use for your GitHub project:
-
----
 
 # Image Search Engine
 
