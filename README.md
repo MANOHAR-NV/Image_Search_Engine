@@ -16,6 +16,10 @@ This project is a simple web application that allows users to search for images 
 - JavaScript (ES6)
 - Unsplash API
 
+## Demo
+
+https://imagesearchsite.netlify.app/
+
 ## Getting Started
 
 To run this project locally, follow these steps:
