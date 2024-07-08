@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/image-search-engine.git
+   git clone https://github.com/MANOHAR-NV/image-search-engine.git
    ```
 
 2. Navigate into the project directory:
